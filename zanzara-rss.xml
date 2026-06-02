@@ -5,7 +5,10 @@
     <link>https://podcast-radio24.ilsole24ore.com/</link>
     <description>Archivio personale La Zanzara dal 19/09/2022 in avanti.</description>
     <language>it-it</language>
-
+<image>
+  <url>https://janconte-star.github.io/zanzara-rss/cover.png</url>
+  <title>La Zanzara Archivio Personale</title>
+  <link>https://janconte-star.github.io/zanzara-rss/</link>
     <item>
       <title>La Zanzara del 19/09/2022</title>
       <description>La Zanzara del 19/09/2022</description>
